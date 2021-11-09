@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Wenge Musica</item>
+        <item>Band 5</item>
+        <item>Band 6</item>
+        <item>Band 7</item>
+        <item>Band 8</item>
+        <item>Band 9</item>
+        <item>Band 10</item>
+        <item>Band 11</item>
+        <item>Band 12</item>
+        <item>Band 13</item>
+        <item>Band 14</item>
+
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>An African urban band from Congo that formed in 1981</item>
+    </string-array>
+</resources>
